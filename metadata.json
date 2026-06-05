@@ -1,0 +1,6 @@
+{
+  "name": "Aesthete",
+  "description": "Minimalist quiet luxury eCommerce storefront featuring premium home goods, apparel, and accessories with interactive product catalog, gallery and shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
